@@ -17,8 +17,6 @@ public class CarServiceImpl implements CarService {
         cars.add(new Car("MB", 456, "grey"));
         cars.add(new Car("BMW", 789, "black"));
         cars.add(new Car("KIA", 987, "yellow"));
-        cars.add(new Car("UAZ", 654, "grey"));
-        cars.add(new Car("ZAZ", 321, "orange"));
     }
 
 
